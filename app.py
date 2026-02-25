@@ -9,4 +9,4 @@ edad_menor=int(input())
 Nombre_completo=nombre + " " + apellido 
 print("nombre completo: ",Nombre_completo)
 diferencia= edad_mayor - edad_menor
-print("la diferencia de edad entre los hermanos es: ",diferencia)
+print("la diferencia de edad entre los hermanos es: ",diferencia, "años")
